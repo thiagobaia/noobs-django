@@ -1,8 +1,8 @@
 # Curso Django
 
-Código desenvolvido no módulo de Django do Site [Python Pro](https://www.python.pro.br/)
+Código desenvolvido no módulo de Django do Site [Python Pro](https://www.python.pro.br/) 
 
-Aplicação disponível: https://noobs-django.herokuapp.com
+Aplicação disponível em : https://noobs-django.herokuapp.com
 
 ___
 
