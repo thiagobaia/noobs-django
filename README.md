@@ -2,8 +2,8 @@
 
 Código desenvolvido no módulo de Django do Site [Python Pro](https://www.python.pro.br/)
 
-Aplicação disponível https://noobs-django.herokuapp.com
+Aplicação disponível: https://noobs-django.herokuapp.com
 
 [![Build Status](https://travis-ci.com/thiagobaia/noobs-django.svg?branch=master)](https://travis-ci.com/thiagobaia/noobs-django)
-[![Updates](https://pyup.io/repos/github/Noobs-Br/curso-django/shield.svg)](https://pyup.io/repos/github/Noobs-Br/curso-django/)
-[![Python 3](https://pyup.io/repos/github/Noobs-Br/curso-django/python-3-shield.svg)](https://pyup.io/repos/github/Noobs-Br/curso-django/)
+[![Updates](https://pyup.io/repos/github/thiagobaia/noobs-django/shield.svg)](https://pyup.io/repos/github/thiagobaia/noobs-django/)
+[![Python 3](https://pyup.io/repos/github/thiagobaia/noobs-django/python-3-shield.svg)](https://pyup.io/repos/github/thiagobaia/noobs-django/)
