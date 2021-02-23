@@ -10,5 +10,3 @@ ___
 [![Updates](https://pyup.io/repos/github/thiagobaia/noobs-django/shield.svg)](https://pyup.io/repos/github/thiagobaia/noobs-django/)
 [![Python 3](https://pyup.io/repos/github/thiagobaia/noobs-django/python-3-shield.svg)](https://pyup.io/repos/github/thiagobaia/noobs-django/)
 [![codecov](https://codecov.io/gh/thiagobaia/noobs-django/branch/master/graph/badge.svg?token=DOYGDRN8MY)](https://codecov.io/gh/thiagobaia/noobs-django)
-
-~~~~~~~~
