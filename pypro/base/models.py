@@ -40,11 +40,10 @@ class UserManager(BaseUserManager):
 class User(AbstractBaseUser, PermissionsMixin):
     """
     App base User class.
-
-    Emal and password are required. Other fields are optional.
+    Email and password are required. Other fields are optional.
     """
 
-    first_name = models.CharField(_('first name'), max_length=150, blank=True)
+    first_name = models.CharField(_('first name'), max_length=30, blank=True)
     email = models.EmailField(_('email address'), unique=True)
     is_staff = models.BooleanField(
         _('staff status'),
